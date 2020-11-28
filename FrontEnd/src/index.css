@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  background-image: url("https://images.unsplash.com/photo-1560128490-d24d570149ca?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAxfHxmdXR1cmlzdGljfGVufDB8fDB8&auto=format&fit=crop&w=500&q=60");; /* w3c */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+button {
+  cursor: pointer;
+}
